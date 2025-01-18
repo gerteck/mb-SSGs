@@ -7,26 +7,32 @@
 
 <br>
 
-<div class="bg-primary text-white px-2 py-5 mb-4">
-  <div class="container">
-    <h1 class="display-5 no-index">Great!<br>You've just initialized a MarkBind site.</h1>
-    <p class="lead">Let's get started...</p>
-  </div>
-</div>
+## Static Site Generators
 
----
+This site, created with MarkBind, serves as a comprehensive wiki for exploring different Static Site Generators (SSGs). Whether you're a developer deciding on the right tool for your next project or a curious learner, this guide will cover the essentials, benefits, drawbacks, and comparisons of various SSGs.
 
-## What just happened?
-
-You have just initialized a _default_ MarkBind site! It is equipped with a set of core features, including site and page navigation. Additionally, we have included some convenient links to our User Guide, to help you get started quickly and easily.
 
 <box type="tip">
 
-If you were intending to convert an existing GitHub wiki or a docs folder into MarkBind, use the `--convert` flag instead. See <a href="https://markbind.org/userGuide/markBindInTheProjectWorkflow.html#converting-existing-project-documentation-wiki" target="_blank">User Guide: MarkBind in the Project Workflow</a> for more information.
+***Quick Tip***: 
 
-If you want to start with a <tooltip content="i.e. without any content">_minimal_</tooltip> template instead, use the `--template` flag with the "minimal" option to initialize a minimal site instead of the default. See <a href="https://markbind.org/userGuide/templates.html" target="_blank">User Guide: Templates</a> for more information.
+If you're new to Static Site Generators, start by identifying your project's requirements (e.g., blogs, documentation, or portfolios) and choose an SSG that matches your preferred programming language. For a lightweight start, try Jekyll or Hugo. For more dynamic functionality, explore Gatsby or Next.js. But of course, you can start by playing around with [MarkBind](https://markbind.org/)!
+
 
 </box>
+
+--- 
+
+## What are Static Site Generators?
+
+_Static Site Generators_ are, in short (SSGs), an application that takes plain text files and compiles them to html files, or static web pages. 
+
+Unlike traditional web applications that depend on a backend to dynamically generate content for each request, SSGs pre-build all pages during the site generation process. This results in static web pages that can be served directly by a Content Delivery Network (CDN) or web server. They don't need a backend after site generation.
+
+Some popular static site generators include Jekyll, Hugo, Eleventy, Gatsby and Next.js. There are hundreds of SSGs that exist 
+
+
+
 
 ---
 
