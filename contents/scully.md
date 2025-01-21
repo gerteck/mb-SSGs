@@ -1,9 +1,12 @@
 <frontmatter>
-  title: Topic 1
+  title: Scully SSG
 </frontmatter>
 
 <br>
 
-# Topic 1
+## Introduction to Scully.js
+
+
+# Topic 2
 
 > This is a placeholder page - more content to be added.
