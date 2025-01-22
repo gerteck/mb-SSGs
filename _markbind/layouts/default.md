@@ -4,12 +4,12 @@
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">SSG</a>
+    <li><a href="{{baseUrl}}/contents/setting-up.html" class="nav-link">Setting Up</a></li>
+    <li><a href="{{baseUrl}}/contents/choosing-ssg.html" class="nav-link">Choosing an SSG</a></li>
+    <dropdown header="Others" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/jamstack.html" class="dropdown-item">JAMstack</a></li>
+      <li><a href="{{baseUrl}}/contents/faq.html" class="dropdown-item">FAQs</a></li>
     </dropdown>
     <li slot="right">
       <form class="navbar-form">
@@ -28,10 +28,18 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [MarkBind]({{baseUrl}}/contents/markbind.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* Vue.js :expanded:
+  * [Nuxt.js]({{baseUrl}}/contents/vuejs/nuxtjs.html)
+* Ruby :expanded:
+  * [Jekyll]({{baseUrl}}/contents/ruby/jekyll.html)
+* React :expanded:
+  * [Gatsby ]({{baseUrl}}/contents/react/gatsby.html)
+  * [Next.js]({{baseUrl}}/contents/nextjs.html)
+* Go :expanded:
+  * [Hugo]({{baseUrl}}/contents/ruby/hugo.html)
+* Content Management Systems CMS :expanded:
+  * [Wordpress]({{baseUrl}}/contents/cms/wordpress.html)
+  * [Drupal]({{baseUrl}}/contents/cms/drupal.html)
       </site-nav>
     </div>
   </nav>

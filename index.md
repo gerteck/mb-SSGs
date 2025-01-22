@@ -1,9 +1,9 @@
-<frontmatter>
+---
   title: Home Page
   layout: default.md
   pageNav: 4
   pageNavTitle: "Topics"
-</frontmatter>
+---
 
 <br>
 

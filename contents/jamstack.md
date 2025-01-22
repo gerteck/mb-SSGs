@@ -4,7 +4,7 @@
 
 <br>
 
-### Why do we do SSR? Server Side Rendering?
+### Why do we do SSR, Server Side Rendering?
 
 In today's time and age, expectations for immediacy are strict. Videos must play instantly, browser applications must launch faster than their desktop counter‐ parts. Users have become increasingly mobile and increasingly impatient—we are all fed up with slow pages and we vote angrily against them with the back button. 
 
