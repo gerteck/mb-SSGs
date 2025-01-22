@@ -6,7 +6,7 @@
 
 ## Introduction to Jekyll  
 
-Jekyll is a static site generator written in Ruby. It takes text written in your favorite markup language (like Markdown) and uses layouts to create a static website. Jekyll is designed for simplicity and is widely used for blogs, documentation, and small websites.
+[Jekyll](https://github.com/jekyll/jekyll) is a static site generator written in Ruby. It takes text written in your favorite markup language (like Markdown) and uses layouts to create a static website. Jekyll is designed for simplicity and is widely used for blogs, documentation, and small websites.
 
 Jekyll allows you to:  
 - Tweak the site’s **look and feel** with customizable themes and layouts.  

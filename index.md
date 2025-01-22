@@ -18,6 +18,9 @@ This site, created with MarkBind, serves as a comprehensive wiki for exploring d
 
 If you're new to Static Site Generators, start by identifying your project's requirements (e.g., blogs, documentation, or portfolios) and choose an SSG that matches your preferred programming language. For a lightweight start, try Jekyll or Hugo. For more dynamic functionality, explore Gatsby or Next.js. But of course, you can start by playing around with [MarkBind](https://markbind.org/)!
 
+Read more about Setting up your Project [here](./contents/setting-up.md)!
+
+Read more about Choosing an SSG [here](./contents/choosing-ssg.md)!
 
 </box>
 
