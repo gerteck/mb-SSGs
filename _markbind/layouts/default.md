@@ -37,7 +37,7 @@
   * [Gatsby ]({{baseUrl}}/contents/react/gatsby.html)
   * [Next.js]({{baseUrl}}/contents/react/nextjs.html)
 * Go :expanded:
-  * [Hugo]({{baseUrl}}/contents/ruby/hugo.html)
+  * [Hugo]({{baseUrl}}/contents/go/hugo.html)
 * Content Management Systems CMS :expanded:
   * [Wordpress]({{baseUrl}}/contents/cms/wordpress.html)
   * [Drupal]({{baseUrl}}/contents/cms/drupal.html)
