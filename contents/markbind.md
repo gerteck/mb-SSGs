@@ -6,7 +6,7 @@
 
 ## Introduction to MarkBind
 
-[![logo](/assets/markbind-logo.png =150x)](https://markbind.org)
+[![logo]({{baseUrl}}/assets/markbind-logo.png =150x)](https://markbind.org)
 ### What is MarkBind?
 
 **MarkBind** is a modern static site generator designed to enhance content-heavy instructional websites, particularly for project documentation, course materials, and other educational resources. Unlike traditional static site generators, MarkBind focuses on making content more dynamic and interactive by allowing authors to easily layer information, reference other sections, and incorporate multimedia elements.
