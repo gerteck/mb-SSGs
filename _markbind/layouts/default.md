@@ -7,10 +7,30 @@
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><img src="{{baseUrl}}/assets/ssgs.png" height="70"></a>
     <li><a href="{{baseUrl}}/contents/setting-up.html" class="nav-link">Setting Up</a></li>
     <li><a href="{{baseUrl}}/contents/choosing-ssg.html" class="nav-link">Choosing an SSG</a></li>
+    <li><a href="{{baseUrl}}/contents/jamstack.html" class="nav-link">JAMstack</a></li>
+    <li><a href="{{baseUrl}}/contents/faq.html" class="nav-link">FAQs</a></li>
     <dropdown header="Others" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/jamstack.html" class="dropdown-item">JAMstack</a></li>
-      <li><a href="{{baseUrl}}/contents/faq.html" class="dropdown-item">FAQs</a></li>
-      <li><a href="{{baseUrl}}/contents/lols/virus.html" class="dropdown-item">For Fun</a></li>
+      <dropdown header="Nested Dropdown" class="nav-link">
+        <dropdown header="Almost there..." class="nav-link">
+          <dropdown header="Don't Give Up!" class="nav-link">
+            <dropdown header="Never gonna" class="nav-link">
+              <dropdown header="Give you up" class="nav-link">
+                <dropdown header="Never gonna" class="nav-link">
+                  <dropdown header="Let you down" class="nav-link">
+                    <dropdown header="Never gonna" class="nav-link">
+                      <dropdown header="run around" class="nav-link">
+                        <dropdown header="and desert you" class="nav-link">
+                          <li><a href="{{baseUrl}}/contents/lols/virus.html" class="dropdown-item">For Fun</a></li>
+                        </dropdown>
+                      </dropdown>
+                    </dropdown>
+                  </dropdown>
+                </dropdown>
+              </dropdown>
+            </dropdown>
+          </dropdown>
+        </dropdown>
+      </dropdown>
     </dropdown>
     <li slot="right">
       <form class="navbar-form">
