@@ -8,7 +8,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 with(this){return _c('h2',{attrs:{"id":"introduction-to-markbind"}},[_v("Introduction to MarkBind"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction-to-markbind","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"https://markbind.org"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/assets/markbind-logo.png","alt":"logo","width":"150"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"https://markbind.org"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/mb-SSGs/assets/markbind-logo.png","alt":"logo","width":"150"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"what-is-markbind"}},[_v("What is MarkBind?"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what-is-markbind","onclick":"event.stopPropagation()"}})])}
