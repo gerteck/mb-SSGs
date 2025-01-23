@@ -8,6 +8,16 @@
       "headingKeywords": {}
     },
     {
+      "src": "README.md",
+      "headings": {
+        "static-site-generators-showcase-with-markbind": "Static Site Generators Showcase with MarkBind",
+        "about-this-project": "📖 About This Project",
+        "features": "🚀 Features",
+        "built-with": "🛠️ Built With"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/angular/scully.md",
       "title": "Scully SSG",
       "headings": {
