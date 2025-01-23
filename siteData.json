@@ -1,0 +1,189 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "404.md",
+      "title": "Page not found",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/angular/scully.md",
+      "title": "Scully SSG",
+      "headings": {
+        "introduction-to-scully": "Introduction to Scully",
+        "what-is-scully": "What is Scully?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/choosing-ssg.md",
+      "title": "Chooing an SSG",
+      "headings": {
+        "choosing-a-site-generator": "Choosing a Site Generator",
+        "evolution-of-site-generators": "Evolution of Site Generators",
+        "1-the-type-of-website": "1. The Type of Website",
+        "2-the-programming-language-used": "2. The Programming Language Used",
+        "3-the-templating-syntax": "3. The Templating Syntax",
+        "4-speed": "4. Speed",
+        "5-developer-tooling": "5. Developer Tooling",
+        "final-thoughts": "Final Thoughts"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/cms/drupal.md",
+      "title": "Drupal Web CMS",
+      "headings": {
+        "drupal": "Drupal"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/cms/wordpress.md",
+      "title": "WordPress Web CMS",
+      "headings": {
+        "wordpress-web-content-management-system-cms": "Wordpress: Web Content Management System (CMS)",
+        "differences-between-web-cnms-and-static-site-generators-mechanism": "Differences between Web CNMs and Static Site Generators (Mechanism)",
+        "1-content-generation": "1. Content Generation",
+        "2-backend-infrastructure": "2. Backend Infrastructure",
+        "3-data-handling": "3. Data Handling",
+        "4-page-rendering-process": "4. Page Rendering Process",
+        "5-content-updates-and-deployment": "5. Content Updates and Deployment",
+        "6-scalability": "6. Scalability",
+        "7-maintenance": "7. Maintenance",
+        "summary-of-mechanisms": "Summary of Mechanisms",
+        "conclusion": "Conclusion"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/faq.md",
+      "title": "FAQ",
+      "headings": {
+        "frequently-asked-questions": "Frequently Asked Questions",
+        "what-exactly-is-client-side-rendering-server-side-rendering-and-prerendering": "What exactly is Client-side rendering, Server-side rendering and Prerendering?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/go/hugo.md",
+      "title": "Hugo SSG",
+      "headings": {
+        "introduction-to-hugo": "Introduction to Hugo",
+        "hugo-s-fast-asset-pipelines": "Hugo's Fast Asset Pipelines",
+        "hugo-modules": "Hugo Modules"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/jamstack.md",
+      "title": "Why SSGs? JAMstack.",
+      "headings": {
+        "why-do-we-do-ssr-server-side-rendering": "Why do we do SSR, Server Side Rendering?",
+        "jamstack": "JAMstack"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/lols/includes.md",
+      "title": "Include Me",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/lols/virus.md",
+      "title": "Virus",
+      "headings": {
+        "don-t-hover-over-the-virus": "Don't hover over the virus"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/markbind.md",
+      "title": "MarkBind SSG",
+      "headings": {
+        "introduction-to-markbind": "Introduction to MarkBind",
+        "what-is-markbind": "What is MarkBind?",
+        "what-can-markbind-do-for-you": "What can MarkBind do for you?",
+        "target-audience": "Target Audience",
+        "strengths-of-markbind": "Strengths of MarkBind",
+        "markbind-s-focus-on-project-documentation": "MarkBind's Focus on Project Documentation",
+        "summary": "Summary",
+        "how-to-get-started": "How to get Started?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/react/gatsby.md",
+      "title": "Gatsby SSG",
+      "headings": {
+        "introduction-to-gatsby": "Introduction to Gatsby"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/react/nextjs.md",
+      "title": "Next.js SSG",
+      "headings": {
+        "introduction-to-next-js": "Introduction to Next.js",
+        "key-features-of-next-js": "Key Features of Next.js",
+        "advantages-of-using-next-js": "Advantages of Using Next.js",
+        "example-use-cases": "Example Use Cases"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/references.md",
+      "headings": {
+        "references": "References"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/ruby/jekyll.md",
+      "title": "Jekyll SSG",
+      "headings": {
+        "introduction-to-jekyll": "Introduction to Jekyll",
+        "get-up-and-running-in-seconds": "Get up and Running in Seconds:",
+        "key-features-of-jekyll": "Key Features of Jekyll",
+        "pros-and-cons-of-jekyll": "Pros and Cons of Jekyll",
+        "pros": "Pros",
+        "cons": "Cons",
+        "popular-use-cases-for-jekyll": "Popular Use Cases for Jekyll"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/setting-up.md",
+      "title": "Setting up your site",
+      "headings": {
+        "setting-up-the-project": "Setting Up the Project 🏃",
+        "managing-content-on-your-site": "Managing Content on your Site",
+        "metadata": "Metadata"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/vuejs/nuxtjs.md",
+      "title": "Nuxt.js SSG",
+      "headings": {
+        "introduction-to-nuxt-js": "Introduction to Nuxt.js",
+        "key-features-of-nuxt-js": "Key Features of Nuxt.js",
+        "topic-2": "Topic 2"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "MarkBind SSG",
+      "headings": {
+        "static-site-generators": "Static Site Generators",
+        "why-use-ssgs": "Why use SSGs?",
+        "what-are-static-site-generators": "What are Static Site Generators?",
+        "comparison-of-ssgs": "Comparison of SSGs"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
