@@ -29,3 +29,11 @@ or directly manipulate the browser’s DOM via JavaScript. (Clientside rendering
 be correct, we can determine this at build time. Decoupling this rendering or generation of views from the timing
 (and machinery) at request time allows us to expose the risk early and tackle any unknowns of this operation far in advance of the
 times a request for the content is made by a user. By the time requests for prerendered content arrives, we are in a position to simply return the prebaked response without the need to generate it each time.
+
+
+
+<panel>
+
+Hello There
+
+</panel>

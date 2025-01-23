@@ -14,6 +14,20 @@ Jekyll allows you to:
 - Use **front matter** to add metadata and structure to pages.  
 - Display dynamic data on static pages using collections and Liquid templates.  
 
+### Get up and Running in Seconds:
+
+```cli
+$  gem install bundler jekyll
+$  jekyll new my-awesome-site
+$  cd my-awesome-site
+$  bundle exec jekyll serve
+# => Now browse to http://localhost:4000
+```
+
+
+
+
+
 ### Key Features of Jekyll  
 - **Seamless Integration with GitHub Pages**  
   Jekyll is the default SSG for GitHub Pages, making it easy to host your Jekyll-powered website for free.  

@@ -2,15 +2,18 @@
   title: MarkBind SSG
 </frontmatter>
 
-<br>
+--- {.dotted .thick-1 .border-primary}
 
 ## Introduction to MarkBind
 
+[![logo](/assets/markbind-logo.png =150x)](https://markbind.org)
 ### What is MarkBind?
 
 **MarkBind** is a modern static site generator designed to enhance content-heavy instructional websites, particularly for project documentation, course materials, and other educational resources. Unlike traditional static site generators, MarkBind focuses on making content more dynamic and interactive by allowing authors to easily layer information, reference other sections, and incorporate multimedia elements.
 
-### Problem Statement
+--- {.border-success}
+
+### What can MarkBind do for you?
 
 - **Flat Content:** Educational materials are typically presented in a flat, linear fashion. MarkBind aims to make this content layered, where sections can be expanded or hidden for better context and interactivity.
 - **Static to Dynamic:** Traditional static content can be transformed into dynamic, interactive experiences. MarkBind allows you to dynamically add web content like videos, interactive diagrams, and other multimedia.
@@ -41,3 +44,18 @@ MarkBind is committed to providing everything you need for project documentation
 ### Summary
 
 MarkBind is perfect for those looking to build educational and instructional websites with dynamic features, making content engaging while keeping the creation process simple. Whether for project documentation, course sites, or any content-heavy website, MarkBind’s flexibility, ease of use, and focus on documentation make it an excellent tool for the job.
+
+
+## How to get Started?
+
+Refer to [Getting Started](https://markbind.org/userGuide/gettingStarted.html)
+
+Three easy steps!
+
+```cli {.line-numbers highlight-lines="1, 3" heading="Install MarkBind Today :+1:"}
+npm install -g markbind-cli
+cd {directory to initalize markbind project}
+markbind init
+```
+
+To preview your site, just run `markbind serve`!

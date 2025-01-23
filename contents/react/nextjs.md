@@ -28,6 +28,8 @@ Static site generators are typically used in concert with a headless CMS, a stat
 
 </panel>
 
+<br/>
+<br/>
 
 ### Key Features of Next.js
 

@@ -4,17 +4,17 @@
 
 <br>
 
-As you set up your site, you need to make some decisions that will help determine which SSG to use.
+As you set up your site, you need to make some decisions that will help ==determine which SSG to use==.
 
-### Setting Up the Project
+### Setting Up the Project :runner:
 
 With no server or database to configure, a JAMstack project is largely a simple folder structure full of text files. The contents of your JAMstack project will usually include the following:
 
-* A source folder to store your content files
-* A folder for layouts and templates
-* A configuration file containing the settings for the build process
-* A static site generator, usually added as a dependency
-* A destination folder to save the final output
+- [x] A source folder to store your content files
+- [x] A folder for layouts and templates
+- [x] A configuration file containing the settings for the build process
+- [x] A static site generator, usually added as a dependency
+- [x] A destination folder to save the final output
 
 You can manage your entire project locally, directly on your computer, but it’s always best to begin by setting up a hosted Git repository. 
 

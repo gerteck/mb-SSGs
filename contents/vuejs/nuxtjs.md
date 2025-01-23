@@ -6,14 +6,6 @@
 
 ## Introduction to Nuxt.js
 
-<frontmatter>
-  title: Nuxt.js SSG
-</frontmatter>
-
-<br>
-
-## Introduction to Nuxt.js
-
 Nuxt.js is a powerful framework built on top of Vue.js for building modern web applications. It enables developers to create server-side rendered (SSR), static-generated (SSG), and hybrid web applications with ease. Nuxt.js simplifies development with its intuitive file-based routing, extensive module ecosystem, and opinionated architecture.
 
 ### Key Features of Nuxt.js
