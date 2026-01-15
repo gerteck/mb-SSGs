@@ -28,7 +28,7 @@
     },
     {
       "src": "contents/choosing-ssg.md",
-      "title": "Chooing an SSG",
+      "title": "Choosing an SSG",
       "headings": {
         "choosing-a-site-generator": "Choosing a Site Generator",
         "evolution-of-site-generators": "Evolution of Site Generators",
