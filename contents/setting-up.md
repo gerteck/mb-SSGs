@@ -1,5 +1,6 @@
 <frontmatter>
   title: Setting up your site
+  layout: no_breadcrumb.md
 </frontmatter>
 
 <br>

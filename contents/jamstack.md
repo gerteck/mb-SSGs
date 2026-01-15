@@ -1,5 +1,6 @@
 <frontmatter>
   title: Why SSGs? JAMstack.
+  layout: no_breadcrumb.md
 </frontmatter>
 
 <br>

@@ -1,5 +1,6 @@
 <frontmatter>
-  title: Chooing an SSG
+  title: Choosing an SSG
+  layout: no_breadcrumb.md
 </frontmatter>
 
 <br>

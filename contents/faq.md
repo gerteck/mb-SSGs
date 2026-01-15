@@ -1,5 +1,6 @@
 <frontmatter>
   title: FAQ
+  layout: no_breadcrumb.md
 </frontmatter>
 
 <br>
